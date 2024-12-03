@@ -1,0 +1,15 @@
+C:\КПИ-github\Tixoxod\energy_system\lab7\lab9Service\bin\Debug\net6.0\lab9Service.deps.json
+C:\КПИ-github\Tixoxod\energy_system\lab7\lab9Service\bin\Debug\net6.0\lab9Service.dll
+C:\КПИ-github\Tixoxod\energy_system\lab7\lab9Service\bin\Debug\net6.0\lab9Service.pdb
+C:\КПИ-github\Tixoxod\energy_system\lab7\lab9Service\bin\Debug\net6.0\lab7.dll
+C:\КПИ-github\Tixoxod\energy_system\lab7\lab9Service\bin\Debug\net6.0\lab7.pdb
+C:\КПИ-github\Tixoxod\energy_system\lab7\lab9Service\obj\Debug\net6.0\lab9Service.csproj.AssemblyReference.cache
+C:\КПИ-github\Tixoxod\energy_system\lab7\lab9Service\obj\Debug\net6.0\lab9Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\КПИ-github\Tixoxod\energy_system\lab7\lab9Service\obj\Debug\net6.0\lab9Service.AssemblyInfoInputs.cache
+C:\КПИ-github\Tixoxod\energy_system\lab7\lab9Service\obj\Debug\net6.0\lab9Service.AssemblyInfo.cs
+C:\КПИ-github\Tixoxod\energy_system\lab7\lab9Service\obj\Debug\net6.0\lab9Service.csproj.CoreCompileInputs.cache
+C:\КПИ-github\Tixoxod\energy_system\lab7\lab9Service\obj\Debug\net6.0\lab9Service.csproj.CopyComplete
+C:\КПИ-github\Tixoxod\energy_system\lab7\lab9Service\obj\Debug\net6.0\lab9Service.dll
+C:\КПИ-github\Tixoxod\energy_system\lab7\lab9Service\obj\Debug\net6.0\refint\lab9Service.dll
+C:\КПИ-github\Tixoxod\energy_system\lab7\lab9Service\obj\Debug\net6.0\lab9Service.pdb
+C:\КПИ-github\Tixoxod\energy_system\lab7\lab9Service\obj\Debug\net6.0\ref\lab9Service.dll
